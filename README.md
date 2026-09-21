@@ -1,2 +1,2 @@
 # cpp-practice
-C++学习代码
+My C++ learning journey as a freshman majoring in Artificial Intelligence.
